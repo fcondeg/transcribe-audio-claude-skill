@@ -2,9 +2,8 @@
 
 A [Claude Code](https://claude.com/claude-code) skill that turns a meeting
 recording into a speaker-tagged Markdown transcript, **entirely on your own
-machine**. No audio and no transcript is ever uploaded anywhere — that's the
-whole point: recordings that shouldn't leave your machine (client calls,
-internal 1:1s, anything under NDA) can still be transcribed.
+machine**. No audio and no transcript is ever uploaded anywhere, so data privacy 
+is kept at a maximum.
 
 ```
 **SPEAKER_00** `00:02:40 - 00:10:30`
