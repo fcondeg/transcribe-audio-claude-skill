@@ -1,0 +1,7 @@
+# Pinned to the versions this skill was built and validated against.
+# whisperx pulls in torch, faster-whisper, ctranslate2, transformers and
+# pyannote-audio itself; pinning it pins the stack.
+#
+# mlx-whisper is deliberately NOT here: it only exists on Apple Silicon and is
+# installed conditionally by setup.sh.
+whisperx==3.8.6

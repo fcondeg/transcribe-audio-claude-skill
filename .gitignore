@@ -1,0 +1,8 @@
+# never share these
+.env              # your personal Hugging Face token
+.venv/            # multi-GB local environment, recreated by setup
+.setup-stamp
+output/
+.DS_Store
+__pycache__/
+*.pyc
