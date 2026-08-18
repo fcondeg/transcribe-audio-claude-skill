@@ -16,7 +16,7 @@ Ok, let's run the checklist to be sure...
 
 Give it an audio or video file; it gives back speaker-separated text with
 timestamps. It does **not** figure out who's who by name, and it does not
-summarize or extract action items — that's a deliberate scope cut, meant as a
+summarize or extract action items: that's a deliberate scope cut, meant as a
 clean first pass for a follow-up step to build on.
 
 ## How it works, in short
