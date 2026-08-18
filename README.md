@@ -182,7 +182,7 @@ closely.
 
 ## Known limitations
 
-- Install of dependencies validated on Mac and Windows, not Linux.
+- Install of dependencies validated on Mac and Windows, untested on Linux.
 - Validated on 2-speaker 1:1s. **3+ speakers with crosstalk is untested**
   and is where VAD-based segmentation is most likely to struggle.
 - Proper nouns are the weakest spot in both modes.
