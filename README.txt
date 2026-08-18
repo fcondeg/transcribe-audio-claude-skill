@@ -15,7 +15,7 @@ internal 1:1s, anything under NDA) can still be transcribed.
 
 Give it an audio or video file; it gives back speaker-separated text with
 timestamps. It does NOT figure out who's who by name, and it does not
-summarize or extract action items -- that's a deliberate scope cut, meant
+summarize or extract action items: that's a deliberate scope cut, meant
 as a clean first pass for a follow-up step to build on.
 
 
@@ -199,6 +199,7 @@ closely.
 KNOWN LIMITATIONS
 ------------------
 
+  - Install of dependencies validated on Mac and Windows, untested Linux.
   - Validated on 2-speaker 1:1s. 3+ speakers with crosstalk is untested
     and is where VAD-based segmentation is most likely to struggle.
   - Proper nouns are the weakest spot in both modes.
